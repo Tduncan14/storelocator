@@ -1,0 +1,2 @@
+# storelocator
+geonode
